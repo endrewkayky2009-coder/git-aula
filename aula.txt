@@ -1,1 +1,2 @@
 comecei a estudar git e controle de versao 
+aprendi a fazer commits 
